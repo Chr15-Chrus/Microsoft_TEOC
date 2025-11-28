@@ -89,7 +89,7 @@
    "_fieldDescription.comment": "This string is displayed as field label",
    "fieldIncidentType": "Incident Type",
    "_fieldIncidentType.comment": "This string is displayed as field label",
-   "fieldIncidentCommander": "Incident Commander",
+   "fieldIncidentCommander": "Commander",
    "_fieldIncidentCommander.comment": "This string is displayed as field label",
    "fieldStartDate": "Start Date & Time",
    "_fieldStartDate.comment": "This string is displayed as field label",
