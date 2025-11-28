@@ -47,7 +47,7 @@ const localizedStrings = {
                 fieldIncidentStatus: "Incident Status",
                 fieldDescription: "Description",
                 fieldIncidentType: "Incident Type",
-                fieldIncidentCommander: "Incident Commander",
+                fieldIncidentCommander: "Commander",
                 fieldStartDate: "Start Date & Time",
                 fieldLocation: "Location",
                 peoplePickerLoader: "Loading results...",
